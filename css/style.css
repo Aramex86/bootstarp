@@ -1,0 +1,176 @@
+.sitecontainer{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*start topnav bar*/
+.navbar-brand img{
+    margin-left: 64px;
+    margin-top: -7px;
+}
+.topnav{
+    height: 65px;
+}
+.navbar-nav {
+    font-variant: all-small-caps;
+    display: flex;
+    flex-basis: 96%;
+    justify-content: flex-end;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial,sans-serif;
+}
+.navbar-nav li{
+    padding-right: 16px;
+    margin-top: -15px;
+}
+.nav-link {
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+.nav-link{
+    color: #3a3d41 !important;
+}
+.nav-link:hover{
+    color: #03c5eb !important;
+}
+.hover{
+    color: #03c5eb !important;
+
+}
+/*end topnav bar*/
+/*start bottomheader*/
+.bottomheader{
+    margin-bottom: 74px;
+}
+.container-fluid{
+    padding-bottom: 66px;
+}
+.bottom{
+    text-align: center;
+    background-image: url("../img/party.jpg");
+    background-size: cover;
+}
+.intro{
+   padding-top: 140px;
+}
+.intro h2{
+    font-size: 76px;
+    color: #ffff;
+    font-weight: bold;
+    font-family: roboto;
+    letter-spacing: 2px;
+    margin-bottom: 32px;
+}
+.introslogan p{
+    font-size: 23px;
+    color: #ffffff;
+    width: 64%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 35px;
+    font-style: italic;
+    font-family: serif;
+    margin-bottom: 30px;
+}
+.button{
+    width: 153px;
+    height: 50px;
+    margin-right: 5px;
+    background-color: initial;
+    border: 1px solid #e9e9e8;
+    border-radius: 2px;
+    font-variant: all-small-caps;
+    font-size: 23px;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: #03c5eb ;
+    border:1px solid #03c5eb;
+}
+.btn-primary{
+    background-color: #03c5eb !important;
+    border: 1px solid transparent;
+    margin-right: 27px;
+}
+/*start about us*/
+.container-fluid{
+    outline: 1px solid red;
+}
+.title h3{
+    text-align: center;
+    margin-bottom: 69px;
+    padding-top: 14px;
+    font-size: 44px;
+    font-weight: bold;
+    font-family: arial;
+    color: black;
+}
+.title span{
+    display: block;
+    font-size: 23px;
+    font-variant: small-caps;
+    font-weight: bold;
+    padding-left: 4px;
+    color: #a9aaaa;
+    text-align: center;
+    margin-top: -6px;
+}
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 35px;
+    margin-left: 41px;
+}
+.row h3{
+    margin-top: 21px;
+    margin-bottom: 28px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    margin-left: -3px;
+}
+.row p{
+    color: #a9aaaa;
+    line-height: 1.6em;
+    font-size: 15px;
+    font-family: arial;
+    margin-top: -10px;
+}
+/*about us*/
+/*start our service*/
+.service{
+    margin-top: -46px;
+    background-color: #f8faf9;
+}
+.ourservice span{
+    padding-top: 64px;
+}
+.box{
+    width: 93%;
+    margin-bottom: 38px;
+    height: 85%;
+    margin-top: -6px;
+    margin-left: 32px;
+    background-color: #ffffff;
+}
+.boximage img{
+    padding-top: 20px;
+}
+.mainbox{
+    margin-bottom: 99px;
+}
+/*end our service*/
+/*start video*/
+.video video{
+    width: 100%;
+    padding: 0;
+}
+.video poster{
+
+}
+
+

@@ -1,0 +1,15 @@
+@media screen and (max-width: 990px) {
+.nav-link{
+    color: white !important;
+}
+.navbar-nav{
+    padding-top: 16px;
+}
+
+}
+@media screen and (max-width: 430px){
+    .intro h2{
+        font-size: 53px !important;
+    }
+
+}

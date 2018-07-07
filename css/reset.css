@@ -51,3 +51,6 @@ table {
 *:focus {
     outline: none;
 }
+img{
+	width: 100%;
+}

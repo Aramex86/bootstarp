@@ -1,8 +1,8 @@
-.sitecontainer{
+/*.sitecontainer{
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
-}
+}*/
 /*start topnav bar*/
 .navbar-brand img{
     margin-left: 65px;
@@ -125,8 +125,6 @@
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: 35px;
-    margin-left: 41px;
 }
 .row h3{
     margin-top: 21px;
@@ -187,11 +185,9 @@
     word-spacing: -4px;
 }
 .boxcontainer1{
-    margin-left: -89px;
     padding-right: 8px;
 }
 .boxcontainer2{
-    margin-left: -92px;
     padding-right: 10px;
 }
 .boxcontainer2 p{
@@ -299,7 +295,7 @@
 .teamphotowrap{
 }
 .teamphoto img{
-    width: 278px;
+    width: 97%;
     height: 173px;
     margin-right: 6px;
     margin-bottom: 25px;
@@ -536,7 +532,6 @@
     letter-spacing: 2px;
     text-align: center;
     padding-top: 67px;
-    margin-right: 212px;
 }
 .social img{
     width: 30px;
@@ -544,7 +539,6 @@
 }
 .social ul{
     text-align: left;
-    margin-left: 66px;
     margin-top: 29px;
 }
 .social li{
